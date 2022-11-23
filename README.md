@@ -24,7 +24,7 @@
 
 ####   ▫️ ViewTemplate
 
-<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" style="zoom:150%; float: left" />&nbsp; <img src="" style="zoom:150%; float: left" />
+<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" style="zoom:150%; float: left" />&nbsp;
 
 
 #####  ▫️ DB
